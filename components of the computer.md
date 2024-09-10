@@ -1,0 +1,1 @@
+ computer system is a complex assembly of interconnected components that work together to process, store, and output data. The primary elements of a computer system include the central processing unit (CPU), memory, input/output devices, and storage. Each component plays a critical role in the computer's overall functionality and performance.
